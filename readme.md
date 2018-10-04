@@ -1,30 +1,23 @@
-# This is a large heading
+# Jeremy Sampson
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I'm from Dothan, Alabama, US. But, currently I live in Barcelona, Spain
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite things to do are:
 
-Here is `some code` in the middle of a sentence.
+- Workout using *Shaun T Beachbody*
+- Make animations in *Adobe After Effects*
+- Going out into the city of Barcelona
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Ribs
+2. Brisket
+3. Chocolate
 
-![This is an image.](http://cdn04.masterstudies.com/gfx/logo/6782/1485456023/Harbour-Space.png)
+### Contact
 
-
+Find me on Twitter [MotionArtsM](https://www.twitter.com/motionartsm).
